@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 
-title: COVID-19 CT Image Synthesis with a Conditional Generative Adversarial Network
-description: A novel COVID-19 CT image synthesis method can generate high-quality synthetic data for downstream diagnostic tasks. <br /> (IEEE JBHI featured article.)
+title: Radiology Reports-driven Diffusion for CT Image Synthesis and Semantic Manipulation
+description: A novel radiology Reports-driven diffusion method can generate high-quality synthetic data for downstream diagnostic tasks. <br /> (Preprinting.)
